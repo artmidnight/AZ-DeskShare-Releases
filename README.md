@@ -1,6 +1,6 @@
 # AZ DeskShare
 
-**by Art Midnight**
+**by Art Midnight** · cybermagnus666@gmail.com
 
 Show one PC's screen and sound on every PC in the office, over your local network. Picture and sound stay in step.
 
@@ -27,3 +27,9 @@ That's it. Viewers connect by themselves from now on.
 
 ## Third-party software
 AZ DeskShare runs [Sunshine](https://github.com/LizardByte/Sunshine) and [Moonlight](https://github.com/moonlight-stream/moonlight-qt) as its streaming engines. Both are open-source under the GNU GPL v3, and the notices are included with each release.
+
+## Custom apps and automation
+Need a custom app or automation for your business? Get in touch with **Art Midnight**: cybermagnus666@gmail.com
+
+## License
+Free to use for everyone, including at work. It may not be sold, modified or reverse engineered. The full terms are in `LICENSE.txt`, included with each release.
