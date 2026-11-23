@@ -64,7 +64,7 @@ Pick **Dark**, **Light** or **Auto** (follows Windows) at the bottom of the side
 ![Dark mode](screenshots/source-home-dark.png)
 
 ## Support the developer
-AZ DeskShare is free. If it helps your office, you can [buy me a coffee](https://buymeacoffee.com/artmidnight). More ways to tip (GCash, GoTyme Bank, PayPal, USDT) are in the app under **About**.
+AZ DeskShare is free. If it helps your office, you can [buy me a coffee](https://buymeacoffee.com/artmidnight). More ways to tip (GCash, GoTyme Bank, PayPal and USDT on Binance) are in the app: open **About** and click **Support AZ DeskShare**, then pick one to see its QR code.
 
 <a href="https://buymeacoffee.com/artmidnight"><img src="screenshots/buymeacoffee.png" alt="Buy Me a Coffee QR code" width="180"></a>
 
